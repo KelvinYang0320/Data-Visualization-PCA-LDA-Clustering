@@ -19,7 +19,6 @@ In order to further understand PCA, LDA, and Data Clustering, apply these method
 ![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/dendrogram30x4.png)
 ![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/dendrogram53stdL3.png)
 ## K-means Clustering
-Click on the link below
 * [kmeans-8OX](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/8OX/kmeans8OX.m)
 * [kmeans-30x4](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/30x4/kmeans30x4.m)
 * [kmeans-53stdL3](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/53stdL3/kmeans53stdL3.m)
