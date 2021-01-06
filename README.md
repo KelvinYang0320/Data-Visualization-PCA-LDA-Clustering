@@ -15,4 +15,4 @@ In order to further understand PCA, LDA, and Data Clustering, apply these method
 |![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/lda30x4_2D.png)|![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/lda30x4_3D.png)|
 |![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/lda53stdL3_2D.png)|![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/lda53stdL3_3D.png)|
 ## Dendrogram (by complete linkage)
-
+| ![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/dendrogram8OX.png)        | ![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/dendrogram30x4.png)      | ![](https://github.com/KelvinYang0320/Data-Visualization-PCA-LDA-Clustering/blob/main/img/dendrogram53stdL3.png)|
